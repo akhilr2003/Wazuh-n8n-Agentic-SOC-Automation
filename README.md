@@ -98,7 +98,7 @@ Import `Wazuh.postman_collection.json` into Postman, then create an environment 
 | `baseUrl-api` | `https://localhost:55000` |
 | `baseUrl-Indexer` | `https://localhost:9200` |
 | `api-username` | `wazuh-wui` |
-| `api-password` | your Wazuh API password |
+| `api-password` | MyS3cr37P450r.*- |
 | `Indexer-user` | `admin` |
 | `Indexer-password` | `SecretPassword` |
 
