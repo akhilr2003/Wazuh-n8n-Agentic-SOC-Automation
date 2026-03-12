@@ -1,6 +1,12 @@
 # 🛡️ Wazuh + n8n Agentic SOC Automation — Lab Setup
 
-> Essential scripts and configuration files to spin up a fully functional **AI-powered SOC lab** using Wazuh SIEM, n8n workflow automation, and Google Gemini AI — as part of the **AI Agentic SOC Automation** course (Lessons 1–4).
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A9D4&center=true&vCenter=true&width=600&lines=🛡️+AI-Powered+SOC+Automation;🔐+Wazuh+SIEM+%2B+n8n+%2B+Gemini+AI;⚡+Real-time+Alert+Triage;🤖+Auto-Generated+Incident+Reports)](https://git.io/typing-svg)
+
+</div>
+
+> 🛡️ Automated SOC pipeline built on Wazuh, n8n, and Google Gemini AI. Spins up a fully networked threat detection lab with real-time alert triage and AI-generated incident reports — no manual analysis needed. 🤖⚡
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-4.12.0-00a9d4?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge)
