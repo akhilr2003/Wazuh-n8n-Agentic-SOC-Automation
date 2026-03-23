@@ -82,10 +82,10 @@ This script does the following automatically:
 
 | Service | URL | Default Credentials |
 |---------|-----|---------------------|
-| Wazuh Dashboard | `https://localhost` | `admin / SecretPassword` |
+| Wazuh Dashboard | `https://localhost` | `admin / SecretPassword` (change this)|
 | n8n | `http://localhost:5678` | Set on first login |
 | Wazuh API | `https://localhost:55000` | `wazuh-wui / <password>` |
-| Wazuh Indexer | `https://localhost:9200` | `admin / SecretPassword` |
+| Wazuh Indexer | `https://localhost:9200` | `admin / SecretPassword`(change this) |
 
 ### Step 4 — Spin Down the Lab
 ```bash
